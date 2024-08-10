@@ -2,7 +2,7 @@
 
 ## Demo
 
-[<img src="/src/assets/codedeck.png" alt="Home Page"/>](https://www.youtube.com/watch?v=mEFBdhQmpy4&t=3s&ab_channel=VishalRajput)
+[<img src="/src/assets/codedeck.png" alt="Home Page"/>](https://github.com/Ankitkumargh/Tally-Codebrewers-Online-Coding-Platform/blob/main/tonline-coding-editor.png)
 
 ## Project Objective
 
