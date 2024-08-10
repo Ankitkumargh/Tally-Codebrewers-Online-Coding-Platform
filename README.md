@@ -10,7 +10,7 @@
 
                          
 
-## Project Objective
+# Project Objective
 
 Code Deck is an advanced online IDE designed to offer developers a seamless coding experience, with features that enhance productivity and streamline the coding process. The project aims to provide a versatile playground where users can create, execute, and manage multiple code snippets efficiently. The core objectives of Code Deck include:
 
@@ -44,66 +44,66 @@ Add functionality for saving multiple playground environments in the local stora
 ## Fullscreen Support:  
 Implement fullscreen support to offer a distraction-free coding environment.
 
-## Technologies Used 
-# React JS:  
+# Technologies Used 
+## React JS:  
 The frontend of Code Deck is built with React JS, offering a modular and scalable framework that supports dynamic UI development.
 
-# Styled Components:  
+## Styled Components:  
 This library is used for styling, allowing for scoped CSS and a consistent design system across the application.
 
-# Judge0 CE API:  
+## Judge0 CE API:  
 Judge0 is the core execution engine, facilitating code compilation and execution across multiple languages.
 
-# Rapid API:  
+## Rapid API:  
 Rapid API is used to configure and manage the Judge0 API, providing a reliable and scalable solution for API requests.
 
-# Axios:  
+## Axios:  
 Axios is utilized for making HTTP requests to the Judge0 API, ensuring smooth and efficient communication between the frontend and backend.
 
-# React Router:  
+## React Router:  
 React Router is employed for handling client-side routing, enabling smooth navigation within the application.
 Features and Benefits
 
-# Enhanced Coding Experience:  
+## Enhanced Coding Experience:  
 Code Deck’s integration with Judge0 allows users to compile and run code snippets in real-time, making it an excellent tool for learning, testing, and rapid development.
 
-# Customization and Flexibility:  
+## Customization and Flexibility:  
 The use of Styled Components and multi-theme support provides users with a customizable and visually appealing coding environment.
 
-# Multi-Language and Multi-Theme Support:  
+## Multi-Language and Multi-Theme Support:  
 Catering to different programming preferences, Code Deck supports multiple programming languages and themes, making it versatile for a wide range of users.
 
-# User-Friendly File Management:  
+## User-Friendly File Management:  
 The ability to upload and download code snippets, as well as the integration of local storage, enhances the user experience by simplifying file management.
 
-# Input and Output Consoles:  
+## Input and Output Consoles:  
 The integrated consoles allow for advanced testing and debugging by facilitating the upload of input files and the download of execution outputs.
 
 
-## Project Setup
+# Project Setup
 
 Steps to Set Up Code Deck:
 Clone the Repository:
 
 Clone the project repository from GitHub using git clone <repository-link>.
 
-# Install Dependencies:
+## Install Dependencies:
 
 Navigate to the project directory and run npm install to install all necessary dependencies, including React, Axios, Styled Components, and CodeMirror.
 
-# Configure Judge0 API:
+## Configure Judge0 API:
 
 Sign up for Rapid API and subscribe to the Judge0 API. Obtain the API key and configure it within the project to enable code execution.
 The API key should be stored in an .env file for security.
 
-# Run the Project:
+## Run the Project:
 
 Start the development server using npm start. This will launch the Code Deck application locally.
 Deploy the Application:
 
 Deploy the project using Vercel or a similar platform. Push your changes to GitHub and connect your repository to Vercel for automatic deployments.
 
-# Explore the Features:
+## Explore the Features:
 
 After deploying, you can explore features such as creating multiple playgrounds, using the input/output console, switching themes, and saving playgrounds in local storage.
 
