@@ -1,13 +1,14 @@
 
 <img src="https://github.com/Ankitkumargh/Tally-Codebrewers-Online-Coding-Platform/blob/main/tonline-coding-editor.png" alt="">
 
-
-                               ## Team name :   Tech Wizard
-                      Team member1 - Ankit Saini (ankit.saini.cs.2024@gmail.com)
-                      Team member2 - Deepak panwar (ankitksaini1807@gmail.com)  /    (deepak512panwar@gmail.com)
-
-                         ## Project Name:    Online Coding Platform
+                          ## Project Name:    Online Coding Platform
                                  // Commander of Full Stack //
+                                 
+                               ## Team name:   Tech Wizard
+                      Team member1 - Ankit Saini (ankit.saini.cs.2024@gmail.com)
+                      Team member2 - Deepak panwar (ankitksaini1807@gmail.com)  / (deepak512panwar@gmail.com)
+
+                         
 
 ## Project Objective
 
