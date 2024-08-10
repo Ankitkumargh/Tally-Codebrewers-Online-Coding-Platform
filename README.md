@@ -2,7 +2,8 @@
 
 ## Demo
 
-[<img src="/src/assets/codedeck.png" alt="Home Page"/>](https://github.com/Ankitkumargh/Tally-Codebrewers-Online-Coding-Platform/blob/main/tonline-coding-editor.png)
+<img src="https://github.com/Ankitkumargh/Tally-Codebrewers-Online-Coding-Platform/blob/main/tonline-coding-editor.png" alt="">
+
 
 ## Project Objective
 
