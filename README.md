@@ -1,6 +1,6 @@
 
 <img src="https://github.com/Ankitkumargh/Tally-Codebrewers-Online-Coding-Platform/blob/main/tonline-coding-editor.png" alt="">
-<img src="https://github.com/Ankitkumargh/Tally-Codebrewers-Online-Coding-Platform/blob/main/online%20coding%20platform2.png" alt="">
+<img src="https://github.com/Ankitkumargh/Tally-Codebrewers-Online-Coding-Platform/blob/main/src/assets/online%20coding%20platform2.png" alt="">
 
 
                           ## Project Name:    Online Coding Platform
